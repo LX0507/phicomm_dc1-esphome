@@ -32,8 +32,8 @@ substitutions:
 #--------------------- 只需要改这上面的内容 ---------------------
 
 wifi:
-  ssid: $wifi_ssid
-  password: $wifi_password
+  ssid: 'EasyWiFi'
+  password: 'going123456'
 #----------需要设置静态地址的改下面的配置------------
 #  manual_ip:
 #    static_ip: 192.168.178.230
